@@ -21,16 +21,17 @@ app.MapControllers();
 
 try
 {
-    using var scope = app.Services.CreateScope();       // 
-    var services = scope.ServiceProvider;
-    var context = services.GetRequiredService<StoreContext>();
-    await context.Database.MigrateAsync();
-    await StoreContextSeed.SeedAsync(context);      // 
+    using var scope = app.Services.CreateScope();       // Creating a scope for the application's services (dependency injection)
+    var services = scope.ServiceProvider;               // Accessing the service provider to resolve dependencies
+    var context = services.GetRequiredService<StoreContext>(); // Getting the required StoreContext service (DB context)
+    await context.Database.MigrateAsync();              // Applying any pending database migrations asynchronously
+    await StoreContextSeed.SeedAsync(context);          // Seeding the database with initial data if necessary
 }
 catch (Exception ex)
 {
-    Console.WriteLine(ex);
-    throw;
+    Console.WriteLine(ex);                              // Logging the exception details to the console
+    throw;                                              // Rethrowing the exception to ensure the error is not swallowed
 }
+
 
 app.Run();
