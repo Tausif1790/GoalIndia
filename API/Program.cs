@@ -12,6 +12,7 @@ builder.Services.AddDbContext<StoreContext>(opt =>
     opt.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
 });
 builder.Services.AddScoped<IProductRepository, ProductRepository>();             // live till http req
+builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
 
 // before this line everything is considered as services
 var app = builder.Build();

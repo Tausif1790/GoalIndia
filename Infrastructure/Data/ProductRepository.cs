@@ -58,6 +58,7 @@ public class ProductRepository(StoreContext context) : IProductRepository
         return await query.ToListAsync();
     }
 
+    // cannot do with simple generic repository, because we are using "Type" property directly which not in baseEntity class
     public async Task<IReadOnlyList<string>> GetTypesAsync()
     {
         return await context.Products.Select(x => x.Type)
