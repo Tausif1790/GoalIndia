@@ -1,3 +1,4 @@
+using API.RequestHelpers;
 using Core.Entities;
 using Core.Interfaces;
 using Core.Specifications;
@@ -6,41 +7,50 @@ using Microsoft.AspNetCore.Mvc;
 namespace API.Controllers;
 
 // Controller to manage product-related API actions
-[ApiController]
-[Route("api/[controller]")]
-public class ProductsController(IGenericRepository<Product> repo) : ControllerBase 
+public class ProductsController(IGenericRepository<Product> repo) : BaseApiController 
 {
     [HttpGet]
-    public async Task<ActionResult<IReadOnlyList<Product>>> GetProducts(string? brand, string? type, string? sort)
+    // use ProductSpacParams object instead of all parameters(string? brand, string? type, string? sort)
+    // [FromQuery] => if we dont put this our controller hunting for a object from request body
+    // so giving controller a hint that this is Query Params from request (see in postmat there is one tab called "Params") not a obect from request body
+    public async Task<ActionResult<IReadOnlyList<Product>>> GetProducts(
+        [FromQuery]ProductSpacParams specParams)
     {
-        var spec = new ProductSpecification(brand, type, sort);  // Creates a new ProductSpecification to filter products based on brand, type, and sort
+        var spec = new ProductSpecification(specParams);            // Creates a new ProductSpecification to filter products based on brand, type, and sort
 
-        var products = await repo.ListAsync(spec);               // Retrieves products from the repository that match the specification
+        // Pagination
+        // var products = await repo.ListAsync(spec);                  // Retrieves products from the repository that match the specification
+        // var count = await repo.CountAsync(spec) ;
+        // var pagination = new Pagination<Product>(specParams.PageIndex, specParams.PageSize, count, products) ;
+        // return Ok(pagination);
+        
+        // Pagination from base Api
+        return await CreatePagedResult(repo, spec, specParams.PageIndex, specParams.PageSize); 
 
-        return Ok(products);                                     // Returns the filtered product list as an HTTP 200 response
+        //return Ok(products);                                     // Returns the filtered product list as an HTTP 200 response
     }
 
     [HttpGet("{id:int}")] // api/products/2
     public async Task<ActionResult<Product>> GetProduct(int id)
     {
-        var product = await repo.GetByIdAsync(id);               // Fetches a single product by ID from the repository
+        var product = await repo.GetByIdAsync(id);
 
-        if (product == null) return NotFound();                  // Returns HTTP 404 if the product is not found
+        if (product == null) return NotFound();
 
-        return product;                                          // Returns the product if found
+        return product;
     }
 
     [HttpPost]
     public async Task<ActionResult<Product>> CreateProduct(Product product)
     {
-        repo.Add(product);                                       // Adds the new product to the repository
+        repo.Add(product);
 
-        if (await repo.SaveAllAsync())                           // Saves the product to the database
+        if (await repo.SaveAllAsync())
         {
             return CreatedAtAction("GetProduct", new { id = product.Id }, product);  // Returns HTTP 201 with the new product's details
         }
 
-        return BadRequest("Problem creating product");           // Returns HTTP 400 if the product creation fails
+        return BadRequest("Problem creating product");
     }
 
     [HttpPut("{id:int}")]
@@ -49,31 +59,31 @@ public class ProductsController(IGenericRepository<Product> repo) : ControllerBa
         if (product.Id != id || !ProductExists(id))              // Validates that the product exists and the ID matches
             return BadRequest("Cannot update this product");
 
-        repo.Update(product);                                    // Updates the product in the repository
+        repo.Update(product);
 
-        if (await repo.SaveAllAsync())                           // Saves the changes
+        if (await repo.SaveAllAsync())
         {
-            return NoContent();                                  // Returns HTTP 204 if successful
+            return NoContent();
         }
 
-        return BadRequest("Problem updating the product");       // Returns HTTP 400 if the update fails
+        return BadRequest("Problem updating the product");
     }
 
     [HttpDelete("{id:int}")]
     public async Task<ActionResult> DeleteProduct(int id)
     {
-        var product = await repo.GetByIdAsync(id);               // Fetches the product by ID
+        var product = await repo.GetByIdAsync(id);
 
-        if (product == null) return NotFound();                  // Returns HTTP 404 if not found
+        if (product == null) return NotFound();
 
-        repo.Remove(product);                                    // Removes the product from the repository
+        repo.Remove(product);
 
-        if (await repo.SaveAllAsync())                           // Saves the changes
+        if (await repo.SaveAllAsync())
         {
-            return NoContent();                                  // Returns HTTP 204 if deletion is successful
+            return NoContent();
         }
 
-        return BadRequest("Problem deleting the product");       // Returns HTTP 400 if deletion fails
+        return BadRequest("Problem deleting the product");
     }
 
     [HttpGet("brands")]

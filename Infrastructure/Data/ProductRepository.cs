@@ -56,6 +56,7 @@ public class ProductRepository(StoreContext context) : IProductRepository
         };
 
         return await query.ToListAsync();
+        //return await query.Skip(5).Take(5).ToListAsync();       // this is how we do pagination
     }
 
     // cannot do with simple generic repository, because we are using "Type" property directly which not in baseEntity class

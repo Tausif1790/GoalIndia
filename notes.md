@@ -9,3 +9,5 @@ and if we need any specific filter, sort(by name, type, etc), then we can create
 like "ProductSpecification" class where it needed (BrandSpecification, TypeSpecification)
 
 //projection ==> the process of changing an object into a new form, often with only the properties that will be used
+
+//[FromQuery] ==> // so giving controller a hint that this is Query Params from request (see in postmat there is one tab called "Params") not a obect from request body

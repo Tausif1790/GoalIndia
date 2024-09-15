@@ -21,5 +21,6 @@ public interface IGenericRepository<T> where T : BaseEntity
     void Remove(T entity);                                       // Removes an entity
     Task<bool> SaveAllAsync();                                   // Saves changes to the database
     bool Exists(int id);                                         // Checks if an entity exists by ID
+    Task<int> CountAsync(ISpecification<T> spec);               // count total items
 }
 

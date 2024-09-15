@@ -3,9 +3,12 @@ using Core.Interfaces;
 
 namespace Infrastructure.Data;
 
+// The SpecificationEvaluator class, which builds and executes queries based on provided specifications
+// for filtering, sorting, distinct results, pagination, and projection:
 public class SpecificationEvaluator<T> where T : BaseEntity
 {
-    // This method builds the query based on the specification (filters, sorting, distinct) and returns the filtered result.
+    // This method generates an IQueryable<T> query based on the specification (ISpecification<T>).
+    // It handles filtering, sorting (both ascending and descending), ensuring distinct results, and pagination.
     public static IQueryable<T> GetQuery(IQueryable<T> query, ISpecification<T> spec)
     {
         // Applies filtering criteria if defined in the specification (e.g., filtering by brand or type)
@@ -32,10 +35,16 @@ public class SpecificationEvaluator<T> where T : BaseEntity
             query = query.Distinct();
         }
 
+        if (spec.IsPagingEnabled) 
+        {
+            query = query.Skip(spec.Skip).Take(spec.Take);
+        }
+
         return query;  // Returns the query after applying filtering, ordering, and distinctness
     }
 
-    // This method handles projections, which transform entities into different result types (e.g., extracting specific fields).
+    // This method builds queries that can return projections of different types (TResult), as defined by the ISpecification<T, TResult>.
+    // This method allows extracting specific fields or transforming entities into different shapes.
     public static IQueryable<TResult> GetQuery<TSpec, TResult>(IQueryable<T> query, 
         ISpecification<T, TResult> spec)
     {
@@ -72,7 +81,30 @@ public class SpecificationEvaluator<T> where T : BaseEntity
             selectQuery = selectQuery?.Distinct();
         }
 
+        if (spec.IsPagingEnabled) 
+        {
+            selectQuery = selectQuery?.Skip(spec.Skip).Take(spec.Take);
+        }
+
         // If projection was applied, return the projected query, otherwise cast the original query to TResult type.
         return selectQuery ?? query.Cast<TResult>();
     }
 }
+
+
+// Projection Explained
+// In the second GetQuery method, projection is achieved using the Select expression from the ISpecification<T, TResult> interface.
+// Projection in this context refers to selecting a subset of properties from an entity or transforming the entity into a different type,
+// rather than returning the entire entity.
+
+// For example
+// If you're querying a Product entity but you only need the Name and Price properties, a projection allows you to select only those fields,
+// reducing the data load and improving query performance.
+
+// public class ProductNamePriceSpecification : BaseSpecification<Product, string>
+// {
+//     public ProductNamePriceSpecification()
+//     {
+//         AddSelect(p => $"{p.Name} - {p.Price}");  // Projects the Name and Price properties into a string
+//     }
+// }

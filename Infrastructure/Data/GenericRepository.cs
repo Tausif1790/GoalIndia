@@ -13,6 +13,16 @@ public class GenericRepository<T>(StoreContext context) : IGenericRepository<T> 
         context.Set<T>().Add(entity);
     }
 
+    // This method returns the count of entities that match a particular specification.
+    public async Task<int> CountAsync(ISpecification<T> spec)
+    {
+        var query = context.Set<T>().AsQueryable();
+
+        query = spec.ApplyCriteria(query);
+
+        return await query.CountAsync();
+    }
+
     public bool Exists(int id)
     {
         return context.Set<T>().Any(x => x.Id == id);       // our baseEntity has "id" property, therefore we have access of "id" property inside generic repository
