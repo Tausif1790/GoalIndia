@@ -11,3 +11,10 @@ like "ProductSpecification" class where it needed (BrandSpecification, TypeSpeci
 //projection ==> the process of changing an object into a new form, often with only the properties that will be used
 
 //[FromQuery] ==> // so giving controller a hint that this is Query Params from request (see in postmat there is one tab called "Params") not a obect from request body
+
+// added in angular.json => to run our serve on https instead of http
+"options": {
+            "ssl": true,
+            "sslCert": "ssl/localhost.pem",
+            "sslKey": "ssl/localhost-key.pem"
+          },
