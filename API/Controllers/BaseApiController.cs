@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace API.Controllers;
 
 // our controller or all controller are going to share some of the same code (ApiController attribute, Route, pagination, other code)
+// ApiController => also handle model states error for us
 [ApiController]
 [Route("api/[controller]")]
 public class BaseApiController : ControllerBase

@@ -24,7 +24,7 @@ public class ProductsController(IGenericRepository<Product> repo) : BaseApiContr
         // var pagination = new Pagination<Product>(specParams.PageIndex, specParams.PageSize, count, products) ;
         // return Ok(pagination);
         
-        // Pagination from base Api
+        // Returning Products with Pagination from base Api
         return await CreatePagedResult(repo, spec, specParams.PageIndex, specParams.PageSize); 
 
         //return Ok(products);                                     // Returns the filtered product list as an HTTP 200 response
