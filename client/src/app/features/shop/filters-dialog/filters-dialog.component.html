@@ -1,0 +1,26 @@
+<div>
+    <h3 class="text-3xl text-center pt-6 mb-3">Filters</h3>          <!-- Dialog title -->
+    <mat-divider></mat-divider>                                      <!-- Divider line -->
+    <div class="flex p-4">                                           <!-- Filter sections (flex layout) -->
+        <div class="w-1/2">                                          <!-- Left side: Brands filter -->
+            <h4 class="font-semibold text-xl text-primary">Brands</h4>
+            <mat-selection-list [(ngModel)]="selectedBrands" [multiple]="true">      <!-- Multiple selection allowed -->
+                @for (brand of shopService.brands; track $index) {
+                    <mat-list-option [value]="brand">{{brand}}</mat-list-option>     <!-- Listing all available brands -->
+                }
+            </mat-selection-list>
+        </div>
+
+        <div class="w-1/2">                                                      <!-- Right side: Types filter -->
+            <h4 class="font-semibold text-xl text-primary">Types</h4>
+            <mat-selection-list [(ngModel)]="selectedTypes" [multiple]="true">   <!-- Multiple selection allowed -->
+                @for (type of shopService.types; track $index) {
+                    <mat-list-option [value]="type">{{type}}</mat-list-option>   <!-- Listing all available types -->
+                }
+            </mat-selection-list>
+        </div>
+    </div>
+    <div class="flex justify-end p-4">                                           <!-- Apply button aligned to the end -->
+        <button mat-flat-button (click)="applyFilters()">Apply Filters</button>  <!-- Triggers applyFilters method -->
+    </div>
+</div>

@@ -25,3 +25,5 @@ like "ProductSpecification" class where it needed (BrandSpecification, TypeSpeci
 // add provideHttpClient() to app.config.ts (to use APIs)
 
 //ngOnInit, lifecycle events
+
+//subscribe, observables
