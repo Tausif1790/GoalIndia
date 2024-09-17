@@ -1,0 +1,866 @@
+[
+  {
+    "Name": "Adidas Predator Edge.3 2024",
+    "Description": "Adidas Predator Edge.3 football shoes designed for precision and control on the field.",
+    "Price": 8500,
+    "PictureUrl": "/images/products/adidas-predator-edge-3-2024.png",
+    "Type": "Football Shoes",
+    "Brand": "Adidas",
+    "QuantityInStock": 25,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Adidas Copa Sense.1 2023",
+    "Description": "Adidas Copa Sense.1 football shoes with superior ball control technology.",
+    "Price": 8900,
+    "PictureUrl": "/images/products/adidas-copa-sense-1-2023.png",
+    "Type": "Football Shoes",
+    "Brand": "Adidas",
+    "QuantityInStock": 20,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Adidas X Speedportal.2 2024",
+    "Description": "Adidas X Speedportal.2 designed for speed and agility with lightweight materials.",
+    "Price": 9200,
+    "PictureUrl": "/images/products/adidas-x-speedportal-2-2024.png",
+    "Type": "Football Shoes",
+    "Brand": "Adidas",
+    "QuantityInStock": 18,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Adidas Nemeziz .4 2023",
+    "Description": "Adidas Nemeziz .4 football shoes built for stability and traction on the pitch.",
+    "Price": 7600,
+    "PictureUrl": "/images/products/adidas-nemeziz-4-2023.png",
+    "Type": "Football Shoes",
+    "Brand": "Adidas",
+    "QuantityInStock": 30,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Adidas Predator Mutator 20.3 2022",
+    "Description": "Adidas Predator Mutator 20.3 football shoes engineered for control in all conditions.",
+    "Price": 8300,
+    "PictureUrl": "/images/products/adidas-predator-mutator-20-3-2022.png",
+    "Type": "Football Shoes",
+    "Brand": "Adidas",
+    "QuantityInStock": 22,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Nike Mercurial Superfly 9 2024",
+    "Description": "Nike Mercurial Superfly 9 football shoes designed for top-tier speed and agility.",
+    "Price": 9400,
+    "PictureUrl": "/images/products/nike-mercurial-superfly-9-2024.png",
+    "Type": "Football Shoes",
+    "Brand": "Nike",
+    "QuantityInStock": 15,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Nike Phantom GT2 2023",
+    "Description": "Nike Phantom GT2 football shoes crafted for precision strikes and improved control.",
+    "Price": 9100,
+    "PictureUrl": "/images/products/nike-phantom-gt2-2023.png",
+    "Type": "Football Shoes",
+    "Brand": "Nike",
+    "QuantityInStock": 28,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Nike Tiempo Legend 9 2024",
+    "Description": "Nike Tiempo Legend 9 football shoes built with cushioned leather for comfort and control.",
+    "Price": 8900,
+    "PictureUrl": "/images/products/nike-tiempo-legend-9-2024.png",
+    "Type": "Football Shoes",
+    "Brand": "Nike",
+    "QuantityInStock": 26,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Nike Mercurial Vapor 14 2022",
+    "Description": "Nike Mercurial Vapor 14 football shoes for lightweight speed and traction.",
+    "Price": 8600,
+    "PictureUrl": "/images/products/nike-mercurial-vapor-14-2022.png",
+    "Type": "Football Shoes",
+    "Brand": "Nike",
+    "QuantityInStock": 19,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Nike Phantom Venom Academy 2023",
+    "Description": "Nike Phantom Venom Academy football shoes designed for power and precision.",
+    "Price": 8500,
+    "PictureUrl": "/images/products/nike-phantom-venom-academy-2023.png",
+    "Type": "Football Shoes",
+    "Brand": "Nike",
+    "QuantityInStock": 24,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Kipsta Agility 900 FG 2024",
+    "Description": "Kipsta Agility 900 FG football shoes offering grip and control on firm ground surfaces.",
+    "Price": 4200,
+    "PictureUrl": "/images/products/kipsta-agility-900-fg-2024.png",
+    "Type": "Football Shoes",
+    "Brand": "Kipsta",
+    "QuantityInStock": 35,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Kipsta CLR 500 HG 2023",
+    "Description": "Kipsta CLR 500 HG football shoes designed for high-speed movements on hard grounds.",
+    "Price": 3900,
+    "PictureUrl": "/images/products/kipsta-clr-500-hg-2023.png",
+    "Type": "Football Shoes",
+    "Brand": "Kipsta",
+    "QuantityInStock": 40,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Kipsta Viralto II 2023",
+    "Description": "Kipsta Viralto II football shoes crafted for durability and precision on all surfaces.",
+    "Price": 3500,
+    "PictureUrl": "/images/products/kipsta-viralto-II-2023.png",
+    "Type": "Football Shoes",
+    "Brand": "Kipsta",
+    "QuantityInStock": 50,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Kipsta Traxium 2024",
+    "Description": "Kipsta Traxium football shoes for superior ball handling and comfort.",
+    "Price": 3800,
+    "PictureUrl": "/images/products/kipsta-traxium-2024.png",
+    "Type": "Football Shoes",
+    "Brand": "Kipsta",
+    "QuantityInStock": 30,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Kipsta Agility 700 MID 2022",
+    "Description": "Kipsta Agility 700 MID football shoes built for superior traction and comfort.",
+    "Price": 3700,
+    "PictureUrl": "/images/products/kipsta-agility-700-mid-2022.png",
+    "Type": "Football Shoes",
+    "Brand": "Kipsta",
+    "QuantityInStock": 32,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Nivia Dominator 2024",
+    "Description": "Nivia Dominator football shoes designed for durability and enhanced performance.",
+    "Price": 2500,
+    "PictureUrl": "/images/products/nivia-dominator-2024.png",
+    "Type": "Football Shoes",
+    "Brand": "Nivia",
+    "QuantityInStock": 60,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Nivia Ashtang 2023",
+    "Description": "Nivia Ashtang football shoes offering stability and grip on artificial grounds.",
+    "Price": 2700,
+    "PictureUrl": "/images/products/nivia-ashtang-2023.png",
+    "Type": "Football Shoes",
+    "Brand": "Nivia",
+    "QuantityInStock": 50,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Nivia Airstrike 2023",
+    "Description": "Nivia Airstrike football shoes crafted for speed and agility on the pitch.",
+    "Price": 2900,
+    "PictureUrl": "/images/products/nivia-airstrike-2023.png",
+    "Type": "Football Shoes",
+    "Brand": "Nivia",
+    "QuantityInStock": 40,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Nivia Encounter 2022",
+    "Description": "Nivia Encounter football shoes built for comfort and control in all weather conditions.",
+    "Price": 2600,
+    "PictureUrl": "/images/products/nivia-encounter-2022.png",
+    "Type": "Football Shoes",
+    "Brand": "Nivia",
+    "QuantityInStock": 45,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Nivia Force 2024",
+    "Description": "Nivia Force football shoes providing excellent traction and durability on grass fields.",
+    "Price": 2800,
+    "PictureUrl": "/images/products/nivia-force-2024.png",
+    "Type": "Football Shoes",
+    "Brand": "Nivia",
+    "QuantityInStock": 55,
+    "Sport": "Football"
+  },
+
+
+
+
+  {
+    "Name": "Nike Stadium Football Socks 2024",
+    "Description": "High-quality Nike football socks with Dri-FIT technology for optimal comfort.",
+    "Price": 1200,
+    "PictureUrl": "/images/products/nike-stadium-socks-2024.png",
+    "Type": "Socks",
+    "Brand": "Nike",
+    "QuantityInStock": 50,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Adidas Football Socks 2023",
+    "Description": "Adidas football socks designed for ultimate breathability and support.",
+    "Price": 1100,
+    "PictureUrl": "/images/products/adidas-football-socks-2023.png",
+    "Type": "Socks",
+    "Brand": "Adidas",
+    "QuantityInStock": 60,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Puma Performance Football Socks 2024",
+    "Description": "Puma football socks engineered for enhanced grip and durability on the field.",
+    "Price": 900,
+    "PictureUrl": "/images/products/puma-performance-socks-2024.png",
+    "Type": "Socks",
+    "Brand": "Puma",
+    "QuantityInStock": 45,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Kipsta Comfort Socks 2023",
+    "Description": "Kipsta football socks offering comfort and support for long matches.",
+    "Price": 800,
+    "PictureUrl": "/images/products/kipsta-comfort-socks-2023.png",
+    "Type": "Socks",
+    "Brand": "Kipsta",
+    "QuantityInStock": 70,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Nivia Grip Football Socks 2022",
+    "Description": "Nivia football socks designed with non-slip grip for enhanced performance.",
+    "Price": 750,
+    "PictureUrl": "/images/products/nivia-grip-socks-2022.png",
+    "Type": "Socks",
+    "Brand": "Nivia",
+    "QuantityInStock": 80,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Adidas Al Rihla Pro Football 2024",
+    "Description": "Official Adidas football designed for top-tier professional matches.",
+    "Price": 6000,
+    "PictureUrl": "/images/products/adidas-al-rihla-pro-2024.png",
+    "Type": "Football",
+    "Brand": "Adidas",
+    "QuantityInStock": 40,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Nike Flight Football 2023",
+    "Description": "Nike Flight football for precise, consistent flight trajectory during matches.",
+    "Price": 5800,
+    "PictureUrl": "/images/products/nike-flight-football-2023.png",
+    "Type": "Football",
+    "Brand": "Nike",
+    "QuantityInStock": 30,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Puma La Liga Football 2024",
+    "Description": "Puma La Liga football, used for the Spanish league games with superior control.",
+    "Price": 5500,
+    "PictureUrl": "/images/products/puma-la-liga-football-2024.png",
+    "Type": "Football",
+    "Brand": "Puma",
+    "QuantityInStock": 25,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Kipsta F900 Football 2023",
+    "Description": "Kipsta F900 professional football for match play and intense practice sessions.",
+    "Price": 4000,
+    "PictureUrl": "/images/products/kipsta-f900-football-2023.png",
+    "Type": "Football",
+    "Brand": "Kipsta",
+    "QuantityInStock": 60,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Nivia Ashtang Football 2022",
+    "Description": "Nivia Ashtang football designed for durability and grip on all surfaces.",
+    "Price": 3000,
+    "PictureUrl": "/images/products/nivia-ashtang-football-2022.png",
+    "Type": "Football",
+    "Brand": "Nivia",
+    "QuantityInStock": 50,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Adidas Tiro Football Shorts 2024",
+    "Description": "Adidas Tiro football shorts designed for maximum mobility and comfort.",
+    "Price": 2800,
+    "PictureUrl": "/images/products/adidas-tiro-shorts-2024.png",
+    "Type": "Shorts",
+    "Brand": "Adidas",
+    "QuantityInStock": 35,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Nike Dri-FIT Strike Shorts 2023",
+    "Description": "Nike Dri-FIT Strike football shorts for breathability and agility during the game.",
+    "Price": 2500,
+    "PictureUrl": "/images/products/nike-strike-shorts-2023.png",
+    "Type": "Shorts",
+    "Brand": "Nike",
+    "QuantityInStock": 40,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Puma Ultraweave Football Shorts 2023",
+    "Description": "Puma football shorts crafted from lightweight fabric for optimal performance.",
+    "Price": 2400,
+    "PictureUrl": "/images/products/puma-ultraweave-shorts-2023.png",
+    "Type": "Shorts",
+    "Brand": "Puma",
+    "QuantityInStock": 25,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Kipsta F500 Football Shorts 2024",
+    "Description": "Kipsta F500 football shorts offering durability and comfort during intense play.",
+    "Price": 2000,
+    "PictureUrl": "/images/products/kipsta-f500-shorts-2024.png",
+    "Type": "Shorts",
+    "Brand": "Kipsta",
+    "QuantityInStock": 45,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Nivia Defcon Football Shorts 2022",
+    "Description": "Nivia Defcon football shorts designed for flexibility and ease of movement.",
+    "Price": 1900,
+    "PictureUrl": "/images/products/nivia-defcon-shorts-2022.png",
+    "Type": "Shorts",
+    "Brand": "Nivia",
+    "QuantityInStock": 50,
+    "Sport": "Football"
+  },
+
+
+
+
+
+  {
+    "Name": "Adidas XT 1.0 Cricket Bat",
+    "Description": "Top-grade English willow cricket bat with massive edges for powerful shots.",
+    "Price": 18000,
+    "PictureUrl": "/images/products/adidas-xt-cricket-bat.png",
+    "Type": "Bat",
+    "Brand": "Adidas",
+    "QuantityInStock": 15,
+    "Sport": "Cricket"
+  },
+  {
+    "Name": "Nike Supernova Cricket Bat",
+    "Description": "Nike's advanced lightweight cricket bat for dynamic stroke play and precision.",
+    "Price": 17000,
+    "PictureUrl": "/images/products/nike-supernova-bat.png",
+    "Type": "Bat",
+    "Brand": "Nike",
+    "QuantityInStock": 20,
+    "Sport": "Cricket"
+  },
+  {
+    "Name": "Kookaburra Kahuna Pro Bat",
+    "Description": "Kookaburra's iconic Kahuna bat, used by top players for explosive performance.",
+    "Price": 20000,
+    "PictureUrl": "/images/products/kookaburra-kahuna-pro-bat.png",
+    "Type": "Bat",
+    "Brand": "Kookaburra",
+    "QuantityInStock": 10,
+    "Sport": "Cricket"
+  },
+  {
+    "Name": "SG Max Power Bat",
+    "Description": "SG bat with thick edges and a balanced pick-up, ideal for powerful hits.",
+    "Price": 15000,
+    "PictureUrl": "/images/products/sg-max-power-bat.png",
+    "Type": "Bat",
+    "Brand": "SG",
+    "QuantityInStock": 25,
+    "Sport": "Cricket"
+  },
+  {
+    "Name": "Gray-Nicolls Legend Cricket Bat",
+    "Description": "Handcrafted Gray-Nicolls bat with premium English willow for elite players.",
+    "Price": 21000,
+    "PictureUrl": "/images/products/gray-nicolls-legend-bat.png",
+    "Type": "Bat",
+    "Brand": "Gray-Nicolls",
+    "QuantityInStock": 8,
+    "Sport": "Cricket"
+  },
+  {
+    "Name": "Adidas XT 1.0 Cricket Bat",
+    "Description": "Top-grade English willow cricket bat with massive edges for powerful shots.",
+    "Price": 18000,
+    "PictureUrl": "/images/products/adidas-xt-cricket-bat.png",
+    "Type": "Bat",
+    "Brand": "Adidas",
+    "QuantityInStock": 15,
+    "Sport": "Cricket"
+  },
+  {
+    "Name": "Nike Supernova Cricket Bat",
+    "Description": "Nike's advanced lightweight cricket bat for dynamic stroke play and precision.",
+    "Price": 17000,
+    "PictureUrl": "/images/products/nike-supernova-bat.png",
+    "Type": "Bat",
+    "Brand": "Nike",
+    "QuantityInStock": 20,
+    "Sport": "Cricket"
+  },
+  {
+    "Name": "Kookaburra Kahuna Pro Bat",
+    "Description": "Kookaburra's iconic Kahuna bat, used by top players for explosive performance.",
+    "Price": 20000,
+    "PictureUrl": "/images/products/kookaburra-kahuna-pro-bat.png",
+    "Type": "Bat",
+    "Brand": "Kookaburra",
+    "QuantityInStock": 10,
+    "Sport": "Cricket"
+  },
+  {
+    "Name": "SG Max Power Bat",
+    "Description": "SG bat with thick edges and a balanced pick-up, ideal for powerful hits.",
+    "Price": 15000,
+    "PictureUrl": "/images/products/sg-max-power-bat.png",
+    "Type": "Bat",
+    "Brand": "SG",
+    "QuantityInStock": 25,
+    "Sport": "Cricket"
+  },
+  {
+    "Name": "Gray-Nicolls Legend Cricket Bat",
+    "Description": "Handcrafted Gray-Nicolls bat with premium English willow for elite players.",
+    "Price": 21000,
+    "PictureUrl": "/images/products/gray-nicolls-legend-bat.png",
+    "Type": "Bat",
+    "Brand": "Gray-Nicolls",
+    "QuantityInStock": 8,
+    "Sport": "Cricket"
+  },
+  {
+    "Name": "Kookaburra Turf Cricket Ball",
+    "Description": "Kookaburra Turf ball, designed for professional cricket matches.",
+    "Price": 2000,
+    "PictureUrl": "/images/products/kookaburra-turf-ball.png",
+    "Type": "Ball",
+    "Brand": "Kookaburra",
+    "QuantityInStock": 60,
+    "Sport": "Cricket"
+  },
+  {
+    "Name": "SG Test Cricket Ball",
+    "Description": "SG Test cricket ball, used in international matches, hand-stitched for durability.",
+    "Price": 1800,
+    "PictureUrl": "/images/products/sg-test-ball.png",
+    "Type": "Ball",
+    "Brand": "SG",
+    "QuantityInStock": 70,
+    "Sport": "Cricket"
+  },
+  {
+    "Name": "Duke's Special County Ball",
+    "Description": "Duke's cricket ball, well-known for its shape retention and swing capabilities.",
+    "Price": 2500,
+    "PictureUrl": "/images/products/dukes-special-county-ball.png",
+    "Type": "Ball",
+    "Brand": "Duke",
+    "QuantityInStock": 40,
+    "Sport": "Cricket"
+  },
+  {
+    "Name": "Puma Evo Speed Cricket Ball",
+    "Description": "Puma Evo Speed cricket ball with high durability and perfect seam.",
+    "Price": 1500,
+    "PictureUrl": "/images/products/puma-evo-speed-ball.png",
+    "Type": "Ball",
+    "Brand": "Puma",
+    "QuantityInStock": 55,
+    "Sport": "Cricket"
+  },
+  {
+    "Name": "Nivia Pro Cricket Ball",
+    "Description": "Nivia's professional grade ball, ideal for competitive games with excellent swing.",
+    "Price": 1400,
+    "PictureUrl": "/images/products/nivia-pro-ball.png",
+    "Type": "Ball",
+    "Brand": "Nivia",
+    "QuantityInStock": 65,
+    "Sport": "Cricket"
+  },
+  {
+    "Name": "Shrey Masterclass Air 2.0 Helmet",
+    "Description": "Top-quality cricket helmet with advanced protection and airflow design.",
+    "Price": 6000,
+    "PictureUrl": "/images/products/shrey-masterclass-helmet.png",
+    "Type": "Helmet",
+    "Brand": "Shrey",
+    "QuantityInStock": 25,
+    "Sport": "Cricket"
+  },
+  {
+    "Name": "Masuri Vision Series Elite Helmet",
+    "Description": "Masuri helmet with titanium grill and enhanced head protection.",
+    "Price": 7000,
+    "PictureUrl": "/images/products/masuri-vision-elite-helmet.png",
+    "Type": "Helmet",
+    "Brand": "Masuri",
+    "QuantityInStock": 20,
+    "Sport": "Cricket"
+  },
+  {
+    "Name": "SG Optipro Cricket Helmet",
+    "Description": "SG helmet with high-grade padding and lightweight construction.",
+    "Price": 4500,
+    "PictureUrl": "/images/products/sg-optipro-helmet.png",
+    "Type": "Helmet",
+    "Brand": "SG",
+    "QuantityInStock": 30,
+    "Sport": "Cricket"
+  },
+  {
+    "Name": "Gray-Nicolls Atomic Helmet",
+    "Description": "Gray-Nicolls Atomic cricket helmet for reliable protection during high-impact play.",
+    "Price": 5000,
+    "PictureUrl": "/images/products/gray-nicolls-atomic-helmet.png",
+    "Type": "Helmet",
+    "Brand": "Gray-Nicolls",
+    "QuantityInStock": 22,
+    "Sport": "Cricket"
+  },
+  {
+    "Name": "Puma Evo 1.0 Cricket Helmet",
+    "Description": "Puma Evo 1.0 cricket helmet with ultra-lightweight design and durable construction.",
+    "Price": 5200,
+    "PictureUrl": "/images/products/puma-evo-helmet.png",
+    "Type": "Helmet",
+    "Brand": "Puma",
+    "QuantityInStock": 18,
+    "Sport": "Cricket"
+  },
+  {
+    "Name": "SG Test Batting Pads",
+    "Description": "Top-notch SG batting pads for ultimate protection and flexibility during the game.",
+    "Price": 4000,
+    "PictureUrl": "/images/products/sg-test-batting-pads.png",
+    "Type": "Pads",
+    "Brand": "SG",
+    "QuantityInStock": 35,
+    "Sport": "Cricket"
+  },
+  {
+    "Name": "Kookaburra Kahuna Pro Batting Pads",
+    "Description": "Kookaburra pads for professional-grade protection and comfort.",
+    "Price": 4500,
+    "PictureUrl": "/images/products/kookaburra-kahuna-pro-pads.png",
+    "Type": "Pads",
+    "Brand": "Kookaburra",
+    "QuantityInStock": 28,
+    "Sport": "Cricket"
+  },
+  {
+    "Name": "Nike Elite Batting Pads",
+    "Description": "Premium Nike batting pads designed for superior comfort and protection.",
+    "Price": 4800,
+    "PictureUrl": "/images/products/nike-elite-batting-pads.png",
+    "Type": "Pads",
+    "Brand": "Nike",
+    "QuantityInStock": 30,
+    "Sport": "Cricket"
+  },
+  {
+    "Name": "Adidas XT 4.0 Batting Pads",
+    "Description": "Adidas batting pads engineered for lightweight and impact protection.",
+    "Price": 5000,
+    "PictureUrl": "/images/products/adidas-xt-4-pads.png",
+    "Type": "Pads",
+    "Brand": "Adidas",
+    "QuantityInStock": 40,
+    "Sport": "Cricket"
+  },
+  {
+    "Name": "Gray-Nicolls Prestige Batting Pads",
+    "Description": "Gray-Nicolls Prestige batting pads offering comfort, protection, and balance.",
+    "Price": 4600,
+    "PictureUrl": "/images/products/gray-nicolls-prestige-pads.png",
+    "Type": "Pads",
+    "Brand": "Gray-Nicolls",
+    "QuantityInStock": 32,
+    "Sport": "Cricket"
+  },
+
+
+
+
+
+  {
+    "Name": "Yonex Astrox 99 Badminton Racket",
+    "Description": "High-performance badminton racket with enhanced power and control for professional players.",
+    "Price": 12500,
+    "PictureUrl": "/images/products/yonex-astrox99.png",
+    "Type": "Racket",
+    "Brand": "Yonex",
+    "QuantityInStock": 20,
+    "Sport": "Badminton"
+  },
+  {
+    "Name": "Li-Ning Turbo X 70 Racket",
+    "Description": "Li-Ning's Turbo X series racket for powerful smashes and fast recovery.",
+    "Price": 8500,
+    "PictureUrl": "/images/products/li-ning-turbo-x70.png",
+    "Type": "Racket",
+    "Brand": "Li-Ning",
+    "QuantityInStock": 15,
+    "Sport": "Badminton"
+  },
+  {
+    "Name": "Yonex Mavis 350 Nylon Shuttlecock",
+    "Description": "Durable and consistent shuttlecock for intermediate and advanced players.",
+    "Price": 700,
+    "PictureUrl": "/images/products/yonex-mavis-350.png",
+    "Type": "Shuttlecock",
+    "Brand": "Yonex",
+    "QuantityInStock": 100,
+    "Sport": "Badminton"
+  },
+  {
+    "Name": "Victor Brave Sword 12 Racket",
+    "Description": "Victor's Brave Sword 12 for excellent speed and flexibility in defense and attack.",
+    "Price": 9000,
+    "PictureUrl": "/images/products/victor-brave-sword12.png",
+    "Type": "Racket",
+    "Brand": "Victor",
+    "QuantityInStock": 12,
+    "Sport": "Badminton"
+  },
+  {
+    "Name": "Apacs Z Ziggler Badminton Racket",
+    "Description": "Apacs Z Ziggler provides great power and precision for aggressive players.",
+    "Price": 6000,
+    "PictureUrl": "/images/products/apacs-z-ziggler.png",
+    "Type": "Racket",
+    "Brand": "Apacs",
+    "QuantityInStock": 25,
+    "Sport": "Badminton"
+  },
+  {
+    "Name": "Adidas TX24 Compo 1 Hockey Stick",
+    "Description": "High-performance hockey stick for drag-flicking specialists, lightweight and durable.",
+    "Price": 12000,
+    "PictureUrl": "/images/products/adidas-tx24-hockey-stick.png",
+    "Type": "Stick",
+    "Brand": "Adidas",
+    "QuantityInStock": 10,
+    "Sport": "Hockey"
+  },
+  {
+    "Name": "Grays GR7000 Jumbow Hockey Stick",
+    "Description": "Grays' professional-grade hockey stick with enhanced control and flexibility.",
+    "Price": 15000,
+    "PictureUrl": "/images/products/grays-gr7000-stick.png",
+    "Type": "Stick",
+    "Brand": "Grays",
+    "QuantityInStock": 8,
+    "Sport": "Hockey"
+  },
+  {
+    "Name": "TK Synergy 1.1 Hockey Gloves",
+    "Description": "TK's lightweight hockey gloves providing excellent grip and protection.",
+    "Price": 2500,
+    "PictureUrl": "/images/products/tk-synergy-gloves.png",
+    "Type": "Gloves",
+    "Brand": "TK",
+    "QuantityInStock": 50,
+    "Sport": "Hockey"
+  },
+  {
+    "Name": "Kookaburra Pro 200 Hockey Ball",
+    "Description": "Kookaburra professional-grade hockey ball, perfect for competitive play.",
+    "Price": 800,
+    "PictureUrl": "/images/products/kookaburra-pro200-hockey-ball.png",
+    "Type": "Ball",
+    "Brand": "Kookaburra",
+    "QuantityInStock": 100,
+    "Sport": "Hockey"
+  },
+  {
+    "Name": "Adidas Hockey Shin Guards",
+    "Description": "Durable shin guards with maximum protection and comfort during matches.",
+    "Price": 2000,
+    "PictureUrl": "/images/products/adidas-hockey-shinguards.png",
+    "Type": "Shin Guards",
+    "Brand": "Adidas",
+    "QuantityInStock": 40,
+    "Sport": "Hockey"
+  },
+  {
+    "Name": "Wilson Pro Staff RF97 Racket",
+    "Description": "Designed by Roger Federer, this racket delivers unparalleled precision and power.",
+    "Price": 20000,
+    "PictureUrl": "/images/products/wilson-prostaff-rf97.png",
+    "Type": "Racket",
+    "Brand": "Wilson",
+    "QuantityInStock": 15,
+    "Sport": "Tennis"
+  },
+  {
+    "Name": "Head Graphene 360+ Speed Pro",
+    "Description": "Head's advanced racket for professional players, with a balance of power and control.",
+    "Price": 18500,
+    "PictureUrl": "/images/products/head-graphene-speedpro.png",
+    "Type": "Racket",
+    "Brand": "Head",
+    "QuantityInStock": 12,
+    "Sport": "Tennis"
+  },
+  {
+    "Name": "Babolat Pure Drive Tennis Racket",
+    "Description": "Babolat's iconic racket for power hitters, designed for aggressive play.",
+    "Price": 16500,
+    "PictureUrl": "/images/products/babolat-puredrive-racket.png",
+    "Type": "Racket",
+    "Brand": "Babolat",
+    "QuantityInStock": 18,
+    "Sport": "Tennis"
+  },
+  {
+    "Name": "Slazenger Wimbledon Tennis Balls",
+    "Description": "Official tennis balls of Wimbledon, known for consistent performance and durability.",
+    "Price": 500,
+    "PictureUrl": "/images/products/slazenger-wimbledon-balls.png",
+    "Type": "Ball",
+    "Brand": "Slazenger",
+    "QuantityInStock": 200,
+    "Sport": "Tennis"
+  },
+  {
+    "Name": "Nike Court Lite Tennis Shoes",
+    "Description": "Lightweight and comfortable tennis shoes for quick movement on the court.",
+    "Price": 7500,
+    "PictureUrl": "/images/products/nike-court-lite-shoes.png",
+    "Type": "Shoes",
+    "Brand": "Nike",
+    "QuantityInStock": 30,
+    "Sport": "Tennis"
+  },
+  {
+    "Name": "Puma Evo Speed Running Shoes",
+    "Description": "High-performance running shoes designed for speed and agility.",
+    "Price": 7000,
+    "PictureUrl": "/images/products/puma-evo-speed-shoes.png",
+    "Type": "Shoes",
+    "Brand": "Puma",
+    "QuantityInStock": 35,
+    "Sport": "Athletics"
+  },
+  {
+    "Name": "Adidas Adizero Sprint Spikes",
+    "Description": "Adidas spikes for sprinters, offering maximum traction and lightweight performance.",
+    "Price": 9000,
+    "PictureUrl": "/images/products/adidas-adizero-sprint-spikes.png",
+    "Type": "Spikes",
+    "Brand": "Adidas",
+    "QuantityInStock": 20,
+    "Sport": "Athletics"
+  },
+  {
+    "Name": "Nike ZoomX Vaporfly Next% 2",
+    "Description": "Nike's top-tier marathon running shoes, known for energy return and lightweight.",
+    "Price": 14000,
+    "PictureUrl": "/images/products/nike-vaporfly-next.png",
+    "Type": "Shoes",
+    "Brand": "Nike",
+    "QuantityInStock": 12,
+    "Sport": "Athletics"
+  },
+  {
+    "Name": "Asics Gel Nimbus 23 Running Shoes",
+    "Description": "Asics' advanced cushioning running shoes for long-distance runners.",
+    "Price": 11000,
+    "PictureUrl": "/images/products/asics-gel-nimbus-23.png",
+    "Type": "Shoes",
+    "Brand": "Asics",
+    "QuantityInStock": 25,
+    "Sport": "Athletics"
+  },
+  {
+    "Name": "Under Armour HOVR Sonic 4 Shoes",
+    "Description": "Responsive and lightweight running shoes designed for distance runners.",
+    "Price": 8500,
+    "PictureUrl": "/images/products/under-armour-hovr-sonic4.png",
+    "Type": "Shoes",
+    "Brand": "Under Armour",
+    "QuantityInStock": 22,
+    "Sport": "Athletics"
+  },
+  {
+    "Name": "Nivia Kabaddi Shoes",
+    "Description": "High-grip kabaddi shoes designed for quick movement and agility.",
+    "Price": 3200,
+    "PictureUrl": "/images/products/nivia-kabaddi-shoes.png",
+    "Type": "Shoes",
+    "Brand": "Nivia",
+    "QuantityInStock": 40,
+    "Sport": "Kabaddi"
+  },
+  {
+    "Name": "Cosco Kabaddi Knee Pads",
+    "Description": "Protective knee pads for kabaddi players, offering high comfort and flexibility.",
+    "Price": 1800,
+    "PictureUrl": "/images/products/cosco-kabaddi-knee-pads.png",
+    "Type": "Knee Pads",
+    "Brand": "Cosco",
+    "QuantityInStock": 50,
+    "Sport": "Kabaddi"
+  },
+  {
+    "Name": "Yonex Grappling Hand Gloves",
+    "Description": "Yonex's kabaddi gloves for improved grip and hand protection.",
+    "Price": 2200,
+    "PictureUrl": "/images/products/yonex-grappling-hand-gloves.png",
+    "Type": "Gloves",
+    "Brand": "Yonex",
+    "QuantityInStock": 30,
+    "Sport": "Kabaddi"
+  },
+  {
+    "Name": "Decathlon Tarmak Kabaddi Shoes",
+    "Description": "Specialized kabaddi shoes from Decathlon for superior performance.",
+    "Price": 2900,
+    "PictureUrl": "/images/products/decathlon-kabaddi-shoes.png",
+    "Type": "Shoes",
+    "Brand": "Decathlon",
+    "QuantityInStock": 35,
+    "Sport": "Kabaddi"
+  },
+  {
+    "Name": "Cosco Kabaddi Mat",
+    "Description": "Durable kabaddi mat designed for high-intensity gameplay.",
+    "Price": 15000,
+    "PictureUrl": "/images/products/cosco-kabaddi-mat.png",
+    "Type": "Mat",
+    "Brand": "Cosco",
+    "QuantityInStock": 10,
+    "Sport": "Kabaddi"
+  }
+]

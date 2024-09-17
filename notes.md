@@ -18,3 +18,10 @@ like "ProductSpecification" class where it needed (BrandSpecification, TypeSpeci
             "sslCert": "ssl/localhost.pem",
             "sslKey": "ssl/localhost-key.pem"
           },
+
+
+// learn CSS flex 
+
+// add provideHttpClient() to app.config.ts (to use APIs)
+
+//ngOnInit, lifecycle events

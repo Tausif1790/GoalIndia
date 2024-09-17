@@ -1,0 +1,702 @@
+[
+  {
+    "Name": "Real Madrid 2024-2025 First Kit Jersey",
+    "Description": "Official Real Madrid 2024-2025 first kit football jersey, designed with breathable fabric for optimal performance.",
+    "Price": 6200,
+    "PictureUrl": "/images/products/jersey-real-madrid-2024-first.png",
+    "Type": "Jersey",
+    "Brand": "Adidas",
+    "QuantityInStock": 28,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Real Madrid 2024-2025 Second Kit Jersey",
+    "Description": "Real Madrid 2024-2025 second kit football jersey, lightweight and moisture-wicking.",
+    "Price": 5900,
+    "PictureUrl": "/images/products/jersey-real-madrid-2024-second.png",
+    "Type": "Jersey",
+    "Brand": "Adidas",
+    "QuantityInStock": 22,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Real Madrid 2023-2024 First Kit Jersey",
+    "Description": "Real Madrid 2023-2024 first kit football jersey, perfect for game-day performance and comfort.",
+    "Price": 5800,
+    "PictureUrl": "/images/products/jersey-real-madrid-2023-first.png",
+    "Type": "Jersey",
+    "Brand": "Adidas",
+    "QuantityInStock": 35,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Real Madrid 2023-2024 Second Kit Jersey",
+    "Description": "Official Real Madrid 2023-2024 second kit jersey, made with top-quality materials for comfort.",
+    "Price": 5700,
+    "PictureUrl": "/images/products/jersey-real-madrid-2023-second.png",
+    "Type": "Jersey",
+    "Brand": "Adidas",
+    "QuantityInStock": 26,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Real Madrid 2022-2023 First Kit Jersey",
+    "Description": "Real Madrid 2022-2023 first kit football jersey, crafted for superior performance on the field.",
+    "Price": 5400,
+    "PictureUrl": "/images/products/jersey-real-madrid-2022-first.png",
+    "Type": "Jersey",
+    "Brand": "Adidas",
+    "QuantityInStock": 30,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Real Madrid 2022-2023 Second Kit Jersey",
+    "Description": "Real Madrid 2022-2023 second kit jersey, offering great comfort and style.",
+    "Price": 5200,
+    "PictureUrl": "/images/products/jersey-real-madrid-2022-second.png",
+    "Type": "Jersey",
+    "Brand": "Adidas",
+    "QuantityInStock": 18,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Real Madrid 2024-2025 First Kit Long Sleeve Jersey",
+    "Description": "Long sleeve version of the Real Madrid 2024-2025 first kit, providing extra warmth during colder matches.",
+    "Price": 6500,
+    "PictureUrl": "/images/products/jersey-real-madrid-2024-first-longsleeve.png",
+    "Type": "Jersey",
+    "Brand": "Adidas",
+    "QuantityInStock": 20,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Real Madrid 2024-2025 Second Kit Long Sleeve Jersey",
+    "Description": "Long sleeve version of the Real Madrid 2024-2025 second kit, offering enhanced coverage and comfort.",
+    "Price": 6300,
+    "PictureUrl": "/images/products/jersey-real-madrid-2024-second-longsleeve.png",
+    "Type": "Jersey",
+    "Brand": "Adidas",
+    "QuantityInStock": 15,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Real Madrid 2023-2024 First Kit Long Sleeve Jersey",
+    "Description": "Long sleeve Real Madrid 2023-2024 first kit jersey for added warmth and protection.",
+    "Price": 6000,
+    "PictureUrl": "/images/products/jersey-real-madrid-2023-first-longsleeve.png",
+    "Type": "Jersey",
+    "Brand": "Adidas",
+    "QuantityInStock": 25,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Real Madrid 2023-2024 Second Kit Long Sleeve Jersey",
+    "Description": "Long sleeve version of the Real Madrid 2023-2024 second kit, ideal for colder game days.",
+    "Price": 5800,
+    "PictureUrl": "/images/products/jersey-real-madrid-2023-second-longsleeve.png",
+    "Type": "Jersey",
+    "Brand": "Adidas",
+    "QuantityInStock": 18,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Real Madrid 2022-2023 First Kit Long Sleeve Jersey",
+    "Description": "Real Madrid 2022-2023 first kit long sleeve football jersey for all-season wear.",
+    "Price": 5600,
+    "PictureUrl": "/images/products/jersey-real-madrid-2022-first-longsleeve.png",
+    "Type": "Jersey",
+    "Brand": "Adidas",
+    "QuantityInStock": 27,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Real Madrid 2022-2023 Second Kit Long Sleeve Jersey",
+    "Description": "Long sleeve version of the Real Madrid 2022-2023 second kit, combining performance and style.",
+    "Price": 5500,
+    "PictureUrl": "/images/products/jersey-real-madrid-2022-second-longsleeve.png",
+    "Type": "Jersey",
+    "Brand": "Adidas",
+    "QuantityInStock": 14,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Barcelona 2024-2025 First Kit Jersey",
+    "Description": "Official Barcelona 2024-2025 first kit football jersey, designed for superior performance and comfort.",
+    "Price": 6000,
+    "PictureUrl": "/images/products/jersey-barcelona-2024-first.png",
+    "Type": "Jersey",
+    "Brand": "Nike",
+    "QuantityInStock": 32,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Barcelona 2024-2025 Second Kit Jersey",
+    "Description": "Barcelona 2024-2025 second kit football jersey, lightweight and made from breathable fabric.",
+    "Price": 5800,
+    "PictureUrl": "/images/products/jersey-barcelona-2024-second.png",
+    "Type": "Jersey",
+    "Brand": "Nike",
+    "QuantityInStock": 25,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Barcelona 2023-2024 First Kit Jersey",
+    "Description": "Official Barcelona 2023-2024 first kit football jersey, offering a sleek fit and moisture-wicking technology.",
+    "Price": 5700,
+    "PictureUrl": "/images/products/jersey-barcelona-2023-first.png",
+    "Type": "Jersey",
+    "Brand": "Nike",
+    "QuantityInStock": 30,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Barcelona 2023-2024 Second Kit Jersey",
+    "Description": "Barcelona 2023-2024 second kit football jersey, crafted for maximum comfort and style.",
+    "Price": 5500,
+    "PictureUrl": "/images/products/jersey-barcelona-2023-second.png",
+    "Type": "Jersey",
+    "Brand": "Nike",
+    "QuantityInStock": 20,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Barcelona 2022-2023 First Kit Jersey",
+    "Description": "Official Barcelona 2022-2023 first kit football jersey, engineered for enhanced performance.",
+    "Price": 5300,
+    "PictureUrl": "/images/products/jersey-barcelona-2022-first.png",
+    "Type": "Jersey",
+    "Brand": "Nike",
+    "QuantityInStock": 28,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Barcelona 2022-2023 Second Kit Jersey",
+    "Description": "Barcelona 2022-2023 second kit football jersey, offering a breathable design and comfortable fit.",
+    "Price": 5100,
+    "PictureUrl": "/images/products/jersey-barcelona-2022-second.png",
+    "Type": "Jersey",
+    "Brand": "Nike",
+    "QuantityInStock": 18,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Barcelona 2024-2025 First Kit Long Sleeve Jersey",
+    "Description": "Long sleeve version of the Barcelona 2024-2025 first kit jersey, perfect for colder weather conditions.",
+    "Price": 6400,
+    "PictureUrl": "/images/products/jersey-barcelona-2024-first-longsleeve.png",
+    "Type": "Jersey",
+    "Brand": "Nike",
+    "QuantityInStock": 22,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Barcelona 2024-2025 Second Kit Long Sleeve Jersey",
+    "Description": "Long sleeve version of the Barcelona 2024-2025 second kit jersey, providing warmth and flexibility.",
+    "Price": 6200,
+    "PictureUrl": "/images/products/jersey-barcelona-2024-second-longsleeve.png",
+    "Type": "Jersey",
+    "Brand": "Nike",
+    "QuantityInStock": 15,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Liverpool 2024-2025 First Kit Jersey",
+    "Description": "Official Liverpool 2024-2025 first kit jersey, designed for optimal comfort and performance.",
+    "Price": 6200,
+    "PictureUrl": "/images/products/jersey-liverpool-2024-first.png",
+    "Type": "Jersey",
+    "Brand": "Nike",
+    "QuantityInStock": 30,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Liverpool 2024-2025 Second Kit Jersey",
+    "Description": "Liverpool 2024-2025 second kit jersey, crafted with lightweight, breathable fabric.",
+    "Price": 6000,
+    "PictureUrl": "/images/products/jersey-liverpool-2024-second.png",
+    "Type": "Jersey",
+    "Brand": "Nike",
+    "QuantityInStock": 28,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Liverpool 2023-2024 First Kit Jersey",
+    "Description": "Official Liverpool 2023-2024 first kit jersey with moisture-wicking fabric.",
+    "Price": 5800,
+    "PictureUrl": "/images/products/jersey-liverpool-2023-first.png",
+    "Type": "Jersey",
+    "Brand": "Nike",
+    "QuantityInStock": 25,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Liverpool 2023-2024 Second Kit Jersey",
+    "Description": "Liverpool 2023-2024 second kit jersey, offering both style and comfort.",
+    "Price": 5700,
+    "PictureUrl": "/images/products/jersey-liverpool-2023-second.png",
+    "Type": "Jersey",
+    "Brand": "Nike",
+    "QuantityInStock": 22,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Liverpool 2022-2023 First Kit Jersey",
+    "Description": "Official Liverpool 2022-2023 first kit football jersey, crafted for performance.",
+    "Price": 5500,
+    "PictureUrl": "/images/products/jersey-liverpool-2022-first.png",
+    "Type": "Jersey",
+    "Brand": "Nike",
+    "QuantityInStock": 20,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Manchester United 2024-2025 First Kit Jersey",
+    "Description": "Official Manchester United 2024-2025 first kit jersey, combining comfort and performance.",
+    "Price": 6100,
+    "PictureUrl": "/images/products/jersey-manutd-2024-first.png",
+    "Type": "Jersey",
+    "Brand": "Adidas",
+    "QuantityInStock": 35,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Manchester United 2024-2025 Second Kit Jersey",
+    "Description": "Manchester United 2024-2025 second kit football jersey, designed with high-performance fabric.",
+    "Price": 5900,
+    "PictureUrl": "/images/products/jersey-manutd-2024-second.png",
+    "Type": "Jersey",
+    "Brand": "Adidas",
+    "QuantityInStock": 30,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Manchester United 2023-2024 First Kit Jersey",
+    "Description": "Official Manchester United 2023-2024 first kit jersey, engineered for peak performance.",
+    "Price": 5700,
+    "PictureUrl": "/images/products/jersey-manutd-2023-first.png",
+    "Type": "Jersey",
+    "Brand": "Adidas",
+    "QuantityInStock": 27,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Manchester United 2023-2024 Second Kit Jersey",
+    "Description": "Manchester United 2023-2024 second kit jersey, made with lightweight and breathable material.",
+    "Price": 5500,
+    "PictureUrl": "/images/products/jersey-manutd-2023-second.png",
+    "Type": "Jersey",
+    "Brand": "Adidas",
+    "QuantityInStock": 22,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Manchester United 2022-2023 First Kit Jersey",
+    "Description": "Official Manchester United 2022-2023 first kit football jersey, featuring moisture-wicking fabric.",
+    "Price": 5300,
+    "PictureUrl": "/images/products/jersey-manutd-2022-first.png",
+    "Type": "Jersey",
+    "Brand": "Adidas",
+    "QuantityInStock": 18,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Al Nassr 2024-2025 First Kit Jersey",
+    "Description": "Official Al Nassr 2024-2025 first kit jersey, crafted for comfort and durability.",
+    "Price": 5900,
+    "PictureUrl": "/images/products/jersey-alnassr-2024-first.png",
+    "Type": "Jersey",
+    "Brand": "Nike",
+    "QuantityInStock": 26,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Al Nassr 2024-2025 Second Kit Jersey",
+    "Description": "Al Nassr 2024-2025 second kit football jersey, lightweight and breathable for enhanced performance.",
+    "Price": 5700,
+    "PictureUrl": "/images/products/jersey-alnassr-2024-second.png",
+    "Type": "Jersey",
+    "Brand": "Nike",
+    "QuantityInStock": 24,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Al Nassr 2023-2024 First Kit Jersey",
+    "Description": "Official Al Nassr 2023-2024 first kit jersey, designed for optimal athletic performance.",
+    "Price": 5500,
+    "PictureUrl": "/images/products/jersey-alnassr-2023-first.png",
+    "Type": "Jersey",
+    "Brand": "Nike",
+    "QuantityInStock": 20,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Al Nassr 2023-2024 Second Kit Jersey",
+    "Description": "Al Nassr 2023-2024 second kit jersey, built for comfort during intense matches.",
+    "Price": 5300,
+    "PictureUrl": "/images/products/jersey-alnassr-2023-second.png",
+    "Type": "Jersey",
+    "Brand": "Nike",
+    "QuantityInStock": 17,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Al Nassr 2022-2023 First Kit Jersey",
+    "Description": "Official Al Nassr 2022-2023 first kit football jersey, ideal for football enthusiasts.",
+    "Price": 5100,
+    "PictureUrl": "/images/products/jersey-alnassr-2022-first.png",
+    "Type": "Jersey",
+    "Brand": "Nike",
+    "QuantityInStock": 15,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Manchester City 2024-2025 First Kit Jersey",
+    "Description": "Official Manchester City 2024-2025 first kit jersey, made for performance and comfort.",
+    "Price": 6000,
+    "PictureUrl": "/images/products/jersey-mancity-2024-first.png",
+    "Type": "Jersey",
+    "Brand": "Puma",
+    "QuantityInStock": 33,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Manchester City 2024-2025 Second Kit Jersey",
+    "Description": "Manchester City 2024-2025 second kit football jersey, designed for superior athletic performance.",
+    "Price": 5800,
+    "PictureUrl": "/images/products/jersey-mancity-2024-second.png",
+    "Type": "Jersey",
+    "Brand": "Puma",
+    "QuantityInStock": 28,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Manchester City 2023-2024 First Kit Jersey",
+    "Description": "Official Manchester City 2023-2024 first kit jersey, offering style and durability.",
+    "Price": 5500,
+    "PictureUrl": "/images/products/jersey-mancity-2023-first.png",
+    "Type": "Jersey",
+    "Brand": "Puma",
+    "QuantityInStock": 30,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Manchester City 2023-2024 Second Kit Jersey",
+    "Description": "Manchester City 2023-2024 second kit football jersey, combining breathable fabric with a sleek design.",
+    "Price": 5400,
+    "PictureUrl": "/images/products/jersey-mancity-2023-second.png",
+    "Type": "Jersey",
+    "Brand": "Puma",
+    "QuantityInStock": 25,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Manchester City 2022-2023 First Kit Jersey",
+    "Description": "Official Manchester City 2022-2023 first kit football jersey, perfect for die-hard fans.",
+    "Price": 5100,
+    "PictureUrl": "/images/products/jersey-mancity-2022-first.png",
+    "Type": "Jersey",
+    "Brand": "Puma",
+    "QuantityInStock": 20,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Juventus 2024-2025 First Kit Jersey",
+    "Description": "Official Juventus 2024-2025 first kit football jersey, engineered for style and performance.",
+    "Price": 5900,
+    "PictureUrl": "/images/products/jersey-juventus-2024-first.png",
+    "Type": "Jersey",
+    "Brand": "Adidas",
+    "QuantityInStock": 34,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Juventus 2024-2025 Second Kit Jersey",
+    "Description": "Juventus 2024-2025 second kit jersey, crafted with lightweight material for enhanced comfort.",
+    "Price": 5700,
+    "PictureUrl": "/images/products/jersey-juventus-2024-second.png",
+    "Type": "Jersey",
+    "Brand": "Adidas",
+    "QuantityInStock": 30,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Juventus 2023-2024 First Kit Jersey",
+    "Description": "Official Juventus 2023-2024 first kit football jersey, combining tradition and modern technology.",
+    "Price": 5500,
+    "PictureUrl": "/images/products/jersey-juventus-2023-first.png",
+    "Type": "Jersey",
+    "Brand": "Adidas",
+    "QuantityInStock": 27,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Juventus 2023-2024 Second Kit Jersey",
+    "Description": "Juventus 2023-2024 second kit jersey, made from breathable fabric for superior comfort.",
+    "Price": 5400,
+    "PictureUrl": "/images/products/jersey-juventus-2023-second.png",
+    "Type": "Jersey",
+    "Brand": "Adidas",
+    "QuantityInStock": 22,
+    "Sport": "Football"
+  },
+  {
+    "Name": "Juventus 2022-2023 First Kit Jersey",
+    "Description": "Official Juventus 2022-2023 first kit football jersey, featuring cutting-edge design.",
+    "Price": 5100,
+    "PictureUrl": "/images/products/jersey-juventus-2022-first.png",
+    "Type": "Jersey",
+    "Brand": "Adidas",
+    "QuantityInStock": 20,
+    "Sport": "Football"
+  },
+  {
+    "Name": "India 2024-2025 First Kit Jersey",
+    "Description": "Official India 2024-2025 football first kit jersey, designed for comfort and durability.",
+    "Price": 5000,
+    "PictureUrl": "/images/products/jersey-india-2024-first.png",
+    "Type": "Jersey",
+    "Brand": "Nike",
+    "QuantityInStock": 36,
+    "Sport": "Football"
+  },
+  {
+    "Name": "India 2024-2025 Second Kit Jersey",
+    "Description": "India 2024-2025 second kit football jersey, crafted with lightweight fabric for peak performance.",
+    "Price": 4800,
+    "PictureUrl": "/images/products/jersey-india-2024-second.png",
+    "Type": "Jersey",
+    "Brand": "Nike",
+    "QuantityInStock": 32,
+    "Sport": "Football"
+  },
+  {
+    "Name": "India 2023-2024 First Kit Jersey",
+    "Description": "Official India 2023-2024 first kit football jersey, providing superior comfort and style.",
+    "Price": 4700,
+    "PictureUrl": "/images/products/jersey-india-2023-first.png",
+    "Type": "Jersey",
+    "Brand": "Nike",
+    "QuantityInStock": 29,
+    "Sport": "Football"
+  },
+  {
+    "Name": "India 2023-2024 Second Kit Jersey",
+    "Description": "India 2023-2024 second kit football jersey, made for comfort during intense games.",
+    "Price": 4500,
+    "PictureUrl": "/images/products/jersey-india-2023-second.png",
+    "Type": "Jersey",
+    "Brand": "Nike",
+    "QuantityInStock": 25,
+    "Sport": "Football"
+  },
+  {
+    "Name": "India 2022-2023 First Kit Jersey",
+    "Description": "Official India 2022-2023 first kit football jersey, made from breathable fabric.",
+    "Price": 4200,
+    "PictureUrl": "/images/products/jersey-india-2022-first.png",
+    "Type": "Jersey",
+    "Brand": "Nike",
+    "QuantityInStock": 20,
+    "Sport": "Football"
+  },
+  {
+    "Name": "India 2024 ODI Kit Jersey",
+    "Description": "Official India 2024 ODI cricket kit jersey, designed with moisture-wicking technology.",
+    "Price": 4500,
+    "PictureUrl": "/images/products/jersey-india-cricket-2024-odi.png",
+    "Type": "Jersey",
+    "Brand": "Nike",
+    "QuantityInStock": 40,
+    "Sport": "Cricket"
+  },
+  {
+    "Name": "India 2024 T20 Kit Jersey",
+    "Description": "India 2024 T20 cricket kit jersey, lightweight and crafted for performance.",
+    "Price": 4300,
+    "PictureUrl": "/images/products/jersey-india-cricket-2024-t20.png",
+    "Type": "Jersey",
+    "Brand": "Nike",
+    "QuantityInStock": 35,
+    "Sport": "Cricket"
+  },
+  {
+    "Name": "India 2023 Test Kit Jersey",
+    "Description": "Official India 2023 Test cricket kit jersey, engineered for comfort and breathability.",
+    "Price": 4700,
+    "PictureUrl": "/images/products/jersey-india-cricket-2023-test.png",
+    "Type": "Jersey",
+    "Brand": "Nike",
+    "QuantityInStock": 30,
+    "Sport": "Cricket"
+  },
+  {
+    "Name": "India 2023 ODI Kit Jersey",
+    "Description": "India 2023 ODI cricket kit jersey, featuring a sleek design and moisture-wicking fabric.",
+    "Price": 4400,
+    "PictureUrl": "/images/products/jersey-india-cricket-2023-odi.png",
+    "Type": "Jersey",
+    "Brand": "Nike",
+    "QuantityInStock": 28,
+    "Sport": "Cricket"
+  },
+  {
+    "Name": "India 2022 T20 Kit Jersey",
+    "Description": "Official India 2022 T20 cricket kit jersey, crafted for peak performance and comfort.",
+    "Price": 4200,
+    "PictureUrl": "/images/products/jersey-india-cricket-2022-t20.png",
+    "Type": "Jersey",
+    "Brand": "Nike",
+    "QuantityInStock": 25,
+    "Sport": "Cricket"
+  },
+  {
+    "Name": "RCB 2024 IPL Home Jersey",
+    "Description": "Official Royal Challengers Bangalore 2024 IPL home jersey, crafted for die-hard fans.",
+    "Price": 3900,
+    "PictureUrl": "/images/products/jersey-rcb-2024-home.png",
+    "Type": "Jersey",
+    "Brand": "Puma",
+    "QuantityInStock": 45,
+    "Sport": "Cricket"
+  },
+  {
+    "Name": "RCB 2024 IPL Away Jersey",
+    "Description": "RCB 2024 IPL away jersey, designed with breathable fabric for a comfortable fit.",
+    "Price": 3700,
+    "PictureUrl": "/images/products/jersey-rcb-2024-away.png",
+    "Type": "Jersey",
+    "Brand": "Puma",
+    "QuantityInStock": 40,
+    "Sport": "Cricket"
+  },
+  {
+    "Name": "RCB 2023 IPL Home Jersey",
+    "Description": "Official RCB 2023 IPL home jersey, featuring a sleek and modern design.",
+    "Price": 3500,
+    "PictureUrl": "/images/products/jersey-rcb-2023-home.png",
+    "Type": "Jersey",
+    "Brand": "Puma",
+    "QuantityInStock": 38,
+    "Sport": "Cricket"
+  },
+  {
+    "Name": "RCB 2023 IPL Away Jersey",
+    "Description": "RCB 2023 IPL away cricket jersey, crafted for comfort and performance.",
+    "Price": 3400,
+    "PictureUrl": "/images/products/jersey-rcb-2023-away.png",
+    "Type": "Jersey",
+    "Brand": "Puma",
+    "QuantityInStock": 35,
+    "Sport": "Cricket"
+  },
+  {
+    "Name": "RCB 2022 IPL Home Jersey",
+    "Description": "Official RCB 2022 IPL home jersey, made with moisture-wicking technology.",
+    "Price": 3300,
+    "PictureUrl": "/images/products/jersey-rcb-2022-home.png",
+    "Type": "Jersey",
+    "Brand": "Puma",
+    "QuantityInStock": 32,
+    "Sport": "Cricket"
+  },
+  {
+    "Name": "Chennai Super Kings 2024 IPL Home Jersey",
+    "Description": "Official Chennai Super Kings 2024 IPL home jersey, combining style and performance.",
+    "Price": 3800,
+    "PictureUrl": "/images/products/jersey-csk-2024-home.png",
+    "Type": "Jersey",
+    "Brand": "Reebok",
+    "QuantityInStock": 42,
+    "Sport": "Cricket"
+  },
+  {
+    "Name": "Chennai Super Kings 2024 IPL Away Jersey",
+    "Description": "CSK 2024 IPL away jersey, designed for superior comfort and breathability.",
+    "Price": 3600,
+    "PictureUrl": "/images/products/jersey-csk-2024-away.png",
+    "Type": "Jersey",
+    "Brand": "Reebok",
+    "QuantityInStock": 40,
+    "Sport": "Cricket"
+  },
+  {
+    "Name": "Chennai Super Kings 2023 IPL Home Jersey",
+    "Description": "Official CSK 2023 IPL home cricket jersey, featuring a lightweight fabric for enhanced mobility.",
+    "Price": 3400,
+    "PictureUrl": "/images/products/jersey-csk-2023-home.png",
+    "Type": "Jersey",
+    "Brand": "Reebok",
+    "QuantityInStock": 36,
+    "Sport": "Cricket"
+  },
+  {
+    "Name": "Chennai Super Kings 2023 IPL Away Jersey",
+    "Description": "CSK 2023 IPL away jersey, crafted for performance with a sleek design.",
+    "Price": 3300,
+    "PictureUrl": "/images/products/jersey-csk-2023-away.png",
+    "Type": "Jersey",
+    "Brand": "Reebok",
+    "QuantityInStock": 34,
+    "Sport": "Cricket"
+  },
+  {
+    "Name": "Chennai Super Kings 2022 IPL Home Jersey",
+    "Description": "Official CSK 2022 IPL home jersey, crafted for comfort and style.",
+    "Price": 3200,
+    "PictureUrl": "/images/products/jersey-csk-2022-home.png",
+    "Type": "Jersey",
+    "Brand": "Reebok",
+    "QuantityInStock": 30,
+    "Sport": "Cricket"
+  },
+  {
+    "Name": "Mumbai Indians 2024 IPL Home Jersey",
+    "Description": "Official Mumbai Indians 2024 IPL home jersey, featuring breathable fabric for peak performance.",
+    "Price": 4000,
+    "PictureUrl": "/images/products/jersey-mi-2024-home.png",
+    "Type": "Jersey",
+    "Brand": "Adidas",
+    "QuantityInStock": 44,
+    "Sport": "Cricket"
+  },
+  {
+    "Name": "Mumbai Indians 2024 IPL Away Jersey",
+    "Description": "Mumbai Indians 2024 IPL away jersey, designed for enhanced mobility and comfort.",
+    "Price": 3800,
+    "PictureUrl": "/images/products/jersey-mi-2024-away.png",
+    "Type": "Jersey",
+    "Brand": "Adidas",
+    "QuantityInStock": 40,
+    "Sport": "Cricket"
+  },
+  {
+    "Name": "Mumbai Indians 2023 IPL Home Jersey",
+    "Description": "Official Mumbai Indians 2023 IPL home jersey, crafted with performance-enhancing fabric.",
+    "Price": 3600,
+    "PictureUrl": "/images/products/jersey-mi-2023-home.png",
+    "Type": "Jersey",
+    "Brand": "Adidas",
+    "QuantityInStock": 38,
+    "Sport": "Cricket"
+  },
+  {
+    "Name": "Mumbai Indians 2023 IPL Away Jersey",
+    "Description": "Mumbai Indians 2023 IPL away jersey, offering both style and comfort for fans.",
+    "Price": 3400,
+    "PictureUrl": "/images/products/jersey-mi-2023-away.png",
+    "Type": "Jersey",
+    "Brand": "Adidas",
+    "QuantityInStock": 36,
+    "Sport": "Cricket"
+  },
+  {
+    "Name": "Mumbai Indians 2022 IPL Home Jersey",
+    "Description": "Official Mumbai Indians 2022 IPL home cricket jersey, designed for superior performance.",
+    "Price": 3200,
+    "PictureUrl": "/images/products/jersey-mi-2022-home.png",
+    "Type": "Jersey",
+    "Brand": "Adidas",
+    "QuantityInStock": 32,
+    "Sport": "Cricket"
+  }
+]
