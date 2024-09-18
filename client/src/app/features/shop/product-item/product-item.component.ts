@@ -3,6 +3,8 @@ import { Product } from '../../../shared/models/product';
 import { MatCard, MatCardActions, MatCardContent } from '@angular/material/card';
 import { MatIcon } from '@angular/material/icon';
 import { CurrencyPipe } from '@angular/common';
+import { RouterLink } from '@angular/router';
+import { MatButton } from '@angular/material/button';
 
 @Component({
   selector: 'app-product-item',
@@ -12,7 +14,9 @@ import { CurrencyPipe } from '@angular/common';
     MatCardContent,
     MatCardActions,
     MatIcon,
-    CurrencyPipe
+    CurrencyPipe,
+    MatButton,
+    RouterLink
   ],
   templateUrl: './product-item.component.html',
   styleUrl: './product-item.component.scss'
