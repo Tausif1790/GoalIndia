@@ -26,4 +26,10 @@ like "ProductSpecification" class where it needed (BrandSpecification, TypeSpeci
 
 //ngOnInit, lifecycle events
 
-//subscribe, observables
+//subscribe, observables (imp)
+
+// pipe functions
+
+// interceptors
+
+// rxjs
