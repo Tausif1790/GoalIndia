@@ -33,3 +33,5 @@ like "ProductSpecification" class where it needed (BrandSpecification, TypeSpeci
 // interceptors
 
 // rxjs
+
+// httpclient in detail
